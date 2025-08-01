@@ -14,3 +14,5 @@
 - Real-world examples (chatbots, self-driving cars, YouTube recommendations)
 
 - Terms like datasets, models, training, prediction, etc.
+
+# Phase 2:
