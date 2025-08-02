@@ -15,4 +15,21 @@
 
 - Terms like datasets, models, training, prediction, etc.
 
-# Phase 2:
+# Phase 2: Python Programming for AI
+🎯 Objective: Learn Python basics with AI libraries.
+
+ ### Key Topics:
+
+- Variables, Data types, Loops, Conditionals, Functions
+
+- Lists, Dictionaries, Tuples
+
+- File Handling, Exception Handling
+
+### Intro to:
+
+- NumPy (math with arrays)
+
+- Pandas (data tables)
+
+- Matplotlib (graphs)
