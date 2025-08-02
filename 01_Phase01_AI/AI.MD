@@ -1,10 +1,12 @@
 # 🌳 Big Picture Tree:
+
 - Artificial Intelligence (AI)
-    - → includes → Machine Learning (ML)
-    - → includes → Deep Learning (DL)
-    - → powers tools like → Generative AI (GenAI)
+  - → includes → Machine Learning (ML)
+  - → includes → Deep Learning (DL)
+  - → powers tools like → Generative AI (GenAI)
 
 # 1. AI – Artificial Intelligence
+
 AI is when machines can "think" and make decisions like humans.
 
 Examples:
@@ -17,8 +19,8 @@ Examples:
 
 💡 Key idea: AI is the big field. It covers everything where machines show smart behavior.
 
-
 # 2. ML – Machine Learning
+
 ML is a subset of AI that allows machines to learn from data and improve with experience — just like how you learn from practice.
 
 Examples:
@@ -32,6 +34,7 @@ Examples:
 💡 Key idea: ML is how machines learn from data, without being directly programmed.
 
 # 3. Deep Learning (DL)
+
 DL is a subset of ML. It uses neural networks (inspired by the human brain) to learn from large amounts of data.
 
 Examples:
@@ -45,6 +48,7 @@ Examples:
 💡 Key idea: DL handles complex tasks like speech, vision, and language by using multiple layers of learning.
 
 # 4. Gen AI – Generative AI
+
 GenAI is a type of AI that can create new content like text, images, music, code, or videos.
 
 Examples:
@@ -58,3 +62,22 @@ Examples:
 - Sora (from OpenAI) making videos
 
 💡 Key idea: GenAI is creative AI — it doesn’t just analyze, it generates new things.
+
+
+ # Human vs AI
+
+| **Human Ability**           | **What It Means**                    | **AI Equivalent**                | **AI Field/Technology**           |
+| --------------------------- | ------------------------------------ | -------------------------------- | --------------------------------- |
+| 🗣️ Speaking & Understanding | Communicate using language           | Natural Language Processing      | NLP (Natural Language Processing) |
+| 👂 Hearing                  | Understand sounds and speech         | Speech Recognition, TTS          | NLP + Audio AI                    |
+| 👁️ Seeing (Vision)          | Recognize faces, objects, scenes     | Computer Vision                  | CV (Computer Vision)              |
+| 🧠 Learning & Thinking      | Analyze, reason, and make decisions  | Machine Learning & Deep Learning | ML / DL                           |
+| 🧍‍♀️ Movement & Coordination  | Walk, grab objects, move naturally   | Robotics + Sensor Fusion         | Robotics + AI                     |
+| 🖼️ Imagination & Creativity | Draw, write, sing, innovate          | Generative AI (Text/Image/Video) | GenAI                             |
+| 📚 Memory                   | Remember and recall knowledge        | Knowledge Graphs, Databases      | Symbolic AI + ML                  |
+| 🧭 Sensing the Environment  | Feel temperature, pressure, space    | Sensors + Perception Models      | Sensor AI                         |
+| 🧬 Adapting & Evolving      | Grow with experience and environment | Reinforcement Learning           | RL (Reinforcement Learning)       |
+| 👥 Social Interaction       | Empathy, emotion, facial expressions | Emotion AI, Sentiment Analysis   | Affective Computing               |
+
+
+# Types of 
