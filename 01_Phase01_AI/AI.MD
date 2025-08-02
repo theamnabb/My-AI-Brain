@@ -63,8 +63,7 @@ Examples:
 
 💡 Key idea: GenAI is creative AI — it doesn’t just analyze, it generates new things.
 
-
- # Human vs AI
+# Human vs AI
 
 | **Human Ability**           | **What It Means**                    | **AI Equivalent**                | **AI Field/Technology**           |
 | --------------------------- | ------------------------------------ | -------------------------------- | --------------------------------- |
@@ -79,5 +78,10 @@ Examples:
 | 🧬 Adapting & Evolving      | Grow with experience and environment | Reinforcement Learning           | RL (Reinforcement Learning)       |
 | 👥 Social Interaction       | Empathy, emotion, facial expressions | Emotion AI, Sentiment Analysis   | Affective Computing               |
 
+# Types of AI
 
-# Types of 
+| **Type of AI** | **Description**                                                          | **Examples**                      | **Stage**           |
+| -------------- | ------------------------------------------------------------------------ | --------------------------------- | ------------------- |
+| **Narrow AI**  | AI trained for **one specific task**. It can't do anything outside that. | ChatGPT, Siri, Google Maps, Alexa | ✅ **Exists Today** |
+| **General AI** | AI with **human-level intelligence** — can learn & do **any** task.      | Hypothetical (still in labs)      | 🧪 **In Research**  |
+| **Super AI**   | AI that is **smarter than humans** — can outthink us in every area.      | Not built yet                     | 🚫 **Theoretical**  |
