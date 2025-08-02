@@ -85,3 +85,8 @@ Examples:
 | **Narrow AI**  | AI trained for **one specific task**. It can't do anything outside that. | ChatGPT, Siri, Google Maps, Alexa | ✅ **Exists Today** |
 | **General AI** | AI with **human-level intelligence** — can learn & do **any** task.      | Hypothetical (still in labs)      | 🧪 **In Research**  |
 | **Super AI**   | AI that is **smarter than humans** — can outthink us in every area.      | Not built yet                     | 🚫 **Theoretical**  |
+
+
+#  📚 Resources:
+
+[YouTube: Simplilearn – AI Basics for Beginners](https://youtu.be/2ePf9rue1Ao0)
