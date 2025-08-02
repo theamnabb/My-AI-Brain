@@ -43,3 +43,18 @@ Examples:
 - Language translation
 
 💡 Key idea: DL handles complex tasks like speech, vision, and language by using multiple layers of learning.
+
+# 4. Gen AI – Generative AI
+GenAI is a type of AI that can create new content like text, images, music, code, or videos.
+
+Examples:
+
+- ChatGPT writing essays
+
+- DALL·E creating images from text
+
+- Adobe Firefly generating designs
+
+- Sora (from OpenAI) making videos
+
+💡 Key idea: GenAI is creative AI — it doesn’t just analyze, it generates new things.
