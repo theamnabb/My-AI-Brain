@@ -1,4 +1,5 @@
 # Python
  - variable
  - Data types
- - control flow
+ - Control flow
+ - Loops
