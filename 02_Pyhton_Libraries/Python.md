@@ -1,1 +1,3 @@
 # Python
+ - variable
+ - Data types
