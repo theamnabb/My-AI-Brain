@@ -3,3 +3,5 @@
  - Data types
  - Control flow
  - Loops
+ - Functions
+ - 
