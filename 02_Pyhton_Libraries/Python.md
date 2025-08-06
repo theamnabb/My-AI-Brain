@@ -4,4 +4,9 @@
  - Control flow
  - Loops
  - Functions
+ - Lists
+ - Dictonries
+
+
+
  - 
