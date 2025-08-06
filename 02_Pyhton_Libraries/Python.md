@@ -6,6 +6,7 @@
  - Functions
  - Lists
  - Dictonries
+ - Tuples
 
 
 
