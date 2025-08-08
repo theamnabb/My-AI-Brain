@@ -13,3 +13,14 @@ Before getting started, please make sure you have the following:
 - ✅ Required libraries installed:
   ```bash
   pip install numpy matplotlib Pillow
+  ```
+## Outline
+
+### 💡 Phase 1: NumPy Foundation
+- Introduction to NumPy
+
+- Creating and understanding NumPy arrays
+
+- Exploring array properties and attributes
+
+- Using array creation methods: zeros(), ones(), arange(), linspace(), and more
