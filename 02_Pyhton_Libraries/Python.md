@@ -1,5 +1,5 @@
-# Python
- - variable
+# [Python](https://github.com/theamnabb/Python) 
+ - Variable
  - Data types
  - Control flow
  - Loops
