@@ -14,3 +14,8 @@
 # Project Time 
 
  - BMI Calculator App 
+
+
+# Libraries
+
+ - Numpy
