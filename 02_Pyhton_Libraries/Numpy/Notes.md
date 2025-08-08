@@ -6,3 +6,6 @@ python -m venv .venv
 .venv\Scripts\Activate
 ```
 
+
+
+### Step 2: import numpy 
