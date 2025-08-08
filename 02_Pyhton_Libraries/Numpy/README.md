@@ -23,4 +23,4 @@ Before getting started, please make sure you have the following:
 
 - Exploring array properties and attributes
 
-- Using array creation methods: zeros(), ones(), arange(), linspace(), and more
+- Using array creation methods: `zeros()`, `ones()`, `arange()`, `linspace()`, and more
