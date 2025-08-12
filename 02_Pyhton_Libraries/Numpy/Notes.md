@@ -8,6 +8,4 @@ python -m venv .venv
 pip install numpy
 ```
 
-
-
 ### Step 2: import numpy 
