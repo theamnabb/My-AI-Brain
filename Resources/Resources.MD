@@ -3,13 +3,14 @@ Step 01 - Learn Python: https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt24
 Step 02 - Learn Numpy: https://www.youtube.com/watch?v=x7ULDYs4X84
 
 Step 03: Learn Pandas 01: https://www.youtube.com/watch?v=qrMnoY8qBJM
+
 Step 04: Learn Pandas 02: https://www.youtube.com/watch?v=0T9qhK5wBqI
 
 Step 05: Learn Probability and Statistics: https://youtube.com/playlist?list=PLnd7R4Mcw3rJDOxrwmwyK-EdJl8Tk431H&si=CP9tDxowoyz-ntY1
 
 Step 06: Learn Numerical Computing: https://youtube.com/playlist?list=PLnd7R4Mcw3rIpsOe-lijX3jtpUwPmK8n6&si=sCGGw8nQYE0cid2z
 
-Step 07: Enroll in Mathematics for machine learning and data science by deeplearning.ai and complete the whole specialization
+Step 07: Enroll in Mathematics for machine learning and data science by deeplearning.ai http://deeplearning.ai/ and complete the whole specialization
 
 Step 08: Learn Machine Learning: https://youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH&si=Pyiys7A4ovyKWsYQ
 
