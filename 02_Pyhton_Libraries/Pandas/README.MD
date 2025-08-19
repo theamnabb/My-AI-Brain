@@ -1,6 +1,6 @@
 # 📌 Introduction to Pandas
 
-Pandas is a **Python library** for d**ata manipulation and analysis**.
+Pandas is a **Python library** for **data manipulation and analysis**.
 
 The name comes from **“Panel Data”** (a term used in econometrics) and also hints at “Python Data Analysis.”
 
