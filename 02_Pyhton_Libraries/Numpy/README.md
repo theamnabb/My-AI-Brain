@@ -12,7 +12,7 @@ Before getting started, please make sure you have the following:
 - ✅ Python 3.x installed
 - ✅ Required libraries installed:
   ```bash
-  pip install numpy matplotlib Pillow
+  pip install numpy matplotlib 
   ```
 ## Outline
 
@@ -24,3 +24,21 @@ Before getting started, please make sure you have the following:
 - Exploring array properties and attributes
 
 - Using array creation methods: `zeros()`, `ones()`, `arange()`, `linspace()`, and more
+
+### ✅ **Phase 2: Operations on NumPy Arrays**
+- Indexing, slicing, and iterating
+- Mathematical operations
+- Aggregations: `sum()`, `mean()`, `min()`, `max()`,`cumsum()` etc.
+- Broadcasting and vectorized operations
+
+### ✅ **Phase 3: Practice with Real-World Data**
+- Working with real datasets 
+- Using NumPy for data preprocessing
+- Data cleaning and basic analytics with NumPy arrays
+
+### ✅ **Phase 4: Image as Matrix**
+- Representing images as NumPy arrays
+- Reading and displaying images using  `matplotlib`
+- Converting images to **Dark Mode** using NumPy operations
+
+---
