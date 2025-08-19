@@ -34,3 +34,15 @@ Wes needed a tool for finance data analysis that was:
 
 So he created Pandas → which quickly became the standard for data analysis in Python.
 Later, it became open source and the community made it much bigger than finance (now used in science, business, AI, everywhere).
+
+# How to get started with Pandas 
+- Install Pandas
+
+```bash
+pip install pandas
+```
+- Import Pandas
+
+```bash
+import pandas as pd
+```
