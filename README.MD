@@ -1,6 +1,6 @@
 # AI Learning 
 
-#  [**Phase 1: AI Fundamentals (Theory & Real-World View**](./01_Phase01_AI/)
+#  [**Phase 1: AI Fundamentals (Theory & Real-World View)**](./01_Phase01_AI/)
 
 ### Key Concepts:
 - What is AI, Machine Learning (ML), Deep Learning (DL)
