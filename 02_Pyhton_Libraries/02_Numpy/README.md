@@ -31,7 +31,7 @@ Before getting started, please make sure you have the following:
 - Aggregations: `sum()`, `mean()`, `min()`, `max()`,`cumsum()` etc.
 - Broadcasting and vectorized operations
 
-### ✅ [**Phase 3: Practice with Real-World Data**](./Phase_04.ipynb)
+### ✅ [**Phase 3: Practice with Real-World Data**](./Phase_03.ipynb)
 - Working with real datasets 
 - Using NumPy for data preprocessing
 - Data cleaning and basic analytics with NumPy arrays
