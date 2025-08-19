@@ -30,6 +30,6 @@
 
 - [NumPy (math with arrays)](./02_Pyhton_Libraries/02_Numpy/)
 
-- [Pandas (data tables)](./02_Pyhton_Libraries/Pandas)
+- [Pandas (data tables)](./02_Pyhton_Libraries/03_Pandas/)
 
 - Matplotlib (graphs)
