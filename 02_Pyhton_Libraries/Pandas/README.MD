@@ -12,7 +12,7 @@ It lets you work with **tabular data** (like rows and columns in a spreadsheet) 
 
 - **DataFrame** → a 2-dimensional labeled data table (like an Excel sheet).
 
-##  When and Why Pandas Was Created
+#  When and Why Pandas Was Created
 
 Created in **2008 by Wes McKinney** while working at a hedge fund called **AQR Capital**.
 
