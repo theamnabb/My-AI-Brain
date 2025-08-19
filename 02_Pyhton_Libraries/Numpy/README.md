@@ -16,7 +16,7 @@ Before getting started, please make sure you have the following:
   ```
 ## Outline
 
-### 💡 Phase 1: NumPy Foundation
+### [**💡 Phase 1: NumPy Foundation**](./Phase_01.ipynb)
 - Introduction to NumPy
 
 - Creating and understanding NumPy arrays
@@ -25,13 +25,13 @@ Before getting started, please make sure you have the following:
 
 - Using array creation methods: `zeros()`, `ones()`, `arange()`, `linspace()`, and more
 
-### ✅ **Phase 2: Operations on NumPy Arrays**
+### ✅ [**Phase 2: Operations on NumPy Arrays**](./Phase_02.ipynb)
 - Indexing, slicing, and iterating
 - Mathematical operations
 - Aggregations: `sum()`, `mean()`, `min()`, `max()`,`cumsum()` etc.
 - Broadcasting and vectorized operations
 
-### ✅ **Phase 3: Practice with Real-World Data**
+### ✅ [**Phase 3: Practice with Real-World Data**](./Phase_04.ipynb)
 - Working with real datasets 
 - Using NumPy for data preprocessing
 - Data cleaning and basic analytics with NumPy arrays
