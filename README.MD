@@ -1,6 +1,6 @@
 # AI Learning 
 
-##  [Phase 1: AI Fundamentals (Theory & Real-World View)](./01_Phase01_AI/)
+#  [Phase 1: AI Fundamentals (Theory & Real-World View)](./01_Phase01_AI/)
 
 ### Key Concepts:
 - What is AI, Machine Learning (ML), Deep Learning (DL)
@@ -16,7 +16,7 @@
 - Terms like datasets, models, training, prediction, etc.
 
 # [**Phase 2: Python Programming for AI**](./02_Pyhton_Libraries/)
-🎯 Objective: Learn Python basics with AI libraries.
+🎯 Objective: Learn [Python](https://github.com/theamnabb/Python) basics with AI libraries.
 
  ### Key Topics:
 
