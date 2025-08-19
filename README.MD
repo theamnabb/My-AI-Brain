@@ -28,7 +28,7 @@
 
 ### Intro to:
 
-- [NumPy (math with arrays)](./02_Pyhton_Libraries/Numpy)
+- [NumPy (math with arrays)](./02_Pyhton_Libraries/02_Numpy/)
 
 - [Pandas (data tables)](./02_Pyhton_Libraries/Pandas)
 
