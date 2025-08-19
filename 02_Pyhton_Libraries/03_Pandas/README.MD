@@ -46,3 +46,10 @@ pip install pandas
 ```bash
 import pandas as pd
 ```
+
+---
+
+# Key Concept of Pandas
+
+- Series: A Series is like one column of data.
+- DataFrame: A DataFrame is like a full Excel sheet (rows + columns).
