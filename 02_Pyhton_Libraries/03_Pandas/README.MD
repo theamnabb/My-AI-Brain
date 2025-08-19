@@ -54,3 +54,9 @@ import pandas as pd
 - Series: A Series is like one column of data.
 - DataFrame: A DataFrame is like a full Excel sheet (rows + columns).
 - [How to create Series & DataFrame](./Series_DataFrame.ipynb)
+
+# Common Issues When Reading Data with Pandas 
+- Encoding Problems (UTF-8, Latin-1, etc.)
+- Large data → break down in to small chunks
+- Data Stored in Cloud (Google Cloud, AWS, etc.) then use (gcsfs library) for read data from google cloud
+> These are real-world issues that make Pandas more than just “toy examples.”
