@@ -19,4 +19,4 @@
 
 # Libraries
 
- - Numpy [Link](https://github.com/theamnabb/My-AI-Brain/tree/main/02_Pyhton_Libraries/Numpy)
+ - Numpy [Link](../02_Numpy)
