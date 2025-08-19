@@ -36,7 +36,7 @@ Before getting started, please make sure you have the following:
 - Using NumPy for data preprocessing
 - Data cleaning and basic analytics with NumPy arrays
 
-### ✅ **Phase 4: Image as Matrix**
+### ✅ [**Phase 4: Image as Matrix**](./Phase_04.ipynb)
 - Representing images as NumPy arrays
 - Reading and displaying images using  `matplotlib`
 - Converting images to **Dark Mode** using NumPy operations
