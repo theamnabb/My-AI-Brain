@@ -62,3 +62,4 @@ import pandas as pd
 > These are real-world issues that make Pandas more than just “toy examples.”
 
 # How to save & use data afer data Manipulation 
+- how to create dataFrame and then save
