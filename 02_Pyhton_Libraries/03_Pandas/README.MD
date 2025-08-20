@@ -64,3 +64,10 @@ import pandas as pd
 # How to save & use data afer data Manipulation 
 - how to create dataFrame and then save
 - [save.py](./Basic/save.py)
+
+# Why we need to Explore the data
+- To understand th DataSet (Datatype, which kind of data)
+- identitfy the problems
+- plan the next steps
+
+> For explore the data we need to load the data first and check the data to organize the data
