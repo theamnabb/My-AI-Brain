@@ -60,3 +60,5 @@ import pandas as pd
 - Large data → break down in to small chunks
 - Data Stored in Cloud (Google Cloud, AWS, etc.) then use (gcsfs library) for read data from google cloud
 > These are real-world issues that make Pandas more than just “toy examples.”
+
+# How to save & use data afer data Manipulation 
