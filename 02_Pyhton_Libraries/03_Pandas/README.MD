@@ -63,3 +63,4 @@ import pandas as pd
 
 # How to save & use data afer data Manipulation 
 - how to create dataFrame and then save
+- [save.py](./Basic/save.py)
