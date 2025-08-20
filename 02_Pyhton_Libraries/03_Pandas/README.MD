@@ -77,3 +77,5 @@ In Python pandas,
 **head()** → shows the first few rows of a DataFrame (default = 5).
 
 **tail()** → shows the last few rows of a DataFrame (default = 5).
+
+**Info()** → The info() method in pandas is used to quickly get a summary of a DataFrame.
