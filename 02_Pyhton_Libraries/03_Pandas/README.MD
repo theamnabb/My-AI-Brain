@@ -78,4 +78,36 @@ In Python pandas,
 
 **tail()** → shows the last few rows of a DataFrame (default = 5).
 
-**Info()** → The info() method in pandas is used to quickly get a summary of a DataFrame.
+**Info()** → The info() method in pandas is used to quickly get a summary of a DataFrame. (data health report)
+```bash
+df.info()
+```
+It gives:
+
+- Index Range → e.g. RangeIndex: 100 entries, 0 to 99
+
+- Column Names
+
+- Number of Non-Null (non-missing) values per column
+
+- Data Types (int64, float64, object, bool, etc.)
+
+- Memory Usage of the DataFrame
+
+**describe()** → The info() method in pandas is used to quickly get a summary of a DataFrame. (data health report)
+```bash
+df.describe()
+```
+Gives statistical summary of your data.
+
+Focuses on:
+
+- Count (non-null values)
+
+- Mean
+
+- Standard deviation
+
+- Min, 25%, 50%, 75%, Max (percentiles)
+
+- 👉 Think of it as a "**data statistics report**".
