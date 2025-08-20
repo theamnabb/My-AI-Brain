@@ -71,3 +71,9 @@ import pandas as pd
 - plan the next steps
 
 > For explore the data we need to load the data first and check the data to organize the data
+
+In Python pandas,
+
+**head()** → shows the first few rows of a DataFrame (default = 5).
+
+**tail()** → shows the last few rows of a DataFrame (default = 5).
