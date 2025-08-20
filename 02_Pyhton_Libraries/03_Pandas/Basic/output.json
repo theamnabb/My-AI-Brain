@@ -1,0 +1,8 @@
+{
+  "Name:": { "0": "Ali", "1": "Sara", "2": "Amna" },
+  "Age:": { "0": 22, "1": 21, "2": 23 },
+  "Marks:": { "0": 85, "1": 90, "2": 88 },
+  "City:": { "0": "Karachi", "1": "Lahore", "2": "Islamabad" },
+  "Country:": { "0": "Pakistan", "1": "Pakistan", "2": "Pakistan" },
+  "Gender:": { "0": "Male", "1": "Female", "2": "female" }
+}
