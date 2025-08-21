@@ -42,3 +42,5 @@ Before getting started, please make sure you have the following:
 - Converting images to **Dark Mode** using NumPy operations
 
 ---
+
+![](./Cheat%20Sheet.png)
