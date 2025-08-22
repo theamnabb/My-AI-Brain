@@ -73,7 +73,7 @@ import pandas as pd
 
 > For explore the data we need to load the data first and check the data to organize the data
 
-In Python pandas,
+In Python Pandas,
 
 ## [Viewing data:](./Basic/Series_DataFrame.ipynb) 
 > .head(), .tail(), .info(), .describe()
@@ -116,3 +116,9 @@ Focuses on:
 
 - 👉 Think of it as a "**data statistics report**".
 
+# Adding, dropping, and Renaming columns/rows
+
+
+# Selecting Data: 
+
+> .loc[], .iloc[], filtering rows and columns
