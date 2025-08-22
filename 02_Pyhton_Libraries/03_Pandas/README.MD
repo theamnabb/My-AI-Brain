@@ -54,6 +54,7 @@ import pandas as pd
 - Series: A Series is like one column of data.
 - DataFrame: A DataFrame is like a full Excel sheet (rows + columns).
 - [How to create Series & DataFrame](./Series_DataFrame.ipynb)
+- Basic attributes: .shape, .columns, .index, .dtypes
 
 # Common Issues When Reading Data with Pandas 
 - Encoding Problems (UTF-8, Latin-1, etc.)
