@@ -118,7 +118,7 @@ Focuses on:
 
 # Adding, dropping, and Renaming columns/rows
 - Adding (Column, insert()),Add column on condition
-- Dropping
+- Dropping: drop()
 
 
 # Selecting Data: 
