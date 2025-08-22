@@ -75,6 +75,8 @@ import pandas as pd
 
 In Python pandas,
 
+> Viewing data: .head(), .tail(), .info(), .describe()
+
 **head()** → shows the first few rows of a DataFrame (default = 5).
 
 **tail()** → shows the last few rows of a DataFrame (default = 5).
