@@ -117,6 +117,8 @@ Focuses on:
 - 👉 Think of it as a "**data statistics report**".
 
 # Adding, dropping, and Renaming columns/rows
+- Adding (Column, insert()),Add column on condition
+- Dropping
 
 
 # Selecting Data: 
