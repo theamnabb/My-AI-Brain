@@ -156,3 +156,16 @@ Focuses on:
     - When missing data is small and not important, we can safely remove it.
 
     - Useful if we want a clean dataset without NaN values.
+
+- ## .fillna()
+👉 What it does:
+
+Replaces missing values (NaN) with a given value.
+
+More flexible than .dropna(), because you don’t lose data.
+
+👉 Why we use it:
+
+When missing data is important but we can make a reasonable replacement.
+
+Prevents data loss by filling gaps with averages, defaults, or forward/backward values.
