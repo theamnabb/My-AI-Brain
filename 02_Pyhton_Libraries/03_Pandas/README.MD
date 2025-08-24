@@ -147,12 +147,12 @@ Focuses on:
 - ## .dropna()
     👉 **What it does:**
 
-    Removes rows or columns that contain missing values.
+    - Removes rows or columns that contain missing values.
 
-    By default, it drops rows (axis=0).
+    - By default, it drops rows (axis=0).
 
-    👉 Why we use it:
+    👉 **Why we use it:**
 
-    When missing data is small and not important, we can safely remove it.
+    - When missing data is small and not important, we can safely remove it.
 
-    Useful if we want a clean dataset without NaN values.
+    - Useful if we want a clean dataset without NaN values.
