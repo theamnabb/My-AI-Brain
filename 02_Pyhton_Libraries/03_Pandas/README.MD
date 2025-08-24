@@ -134,7 +134,7 @@ Focuses on:
 
     - Checks if each value in the DataFrame (or Series) is missing (NaN).
 
-    - Returns True if missing, False if not missing.
+    - Returns **True** if missing, **False** if not missing.
 
     - It does not change the data, only shows where the missing values are.
 
