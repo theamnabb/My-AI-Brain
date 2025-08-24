@@ -169,3 +169,14 @@ Focuses on:
     - When missing data is important but we can make a reasonable replacement.
 
     - Prevents data loss by filling gaps with averages, defaults, or forward/backward values.
+
+# Sorting and ranking: 
+
+> .sort_values(), .sort_index() 
+
+- ## .sort_values()
+    👉 What it does:
+
+    - Sorts a DataFrame (or Series) by column values.
+
+    - Can sort by one or multiple columns.
