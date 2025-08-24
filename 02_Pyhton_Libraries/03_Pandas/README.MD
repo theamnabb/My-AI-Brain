@@ -188,3 +188,9 @@ Focuses on:
 # Merging and joining: 
 
 >.merge(), .concat(), .join()
+
+--- 
+
+# Project 1:
+
+**(Titanic)** is a classic beginner-friendly dataset for practicing Pandas. 🚢
