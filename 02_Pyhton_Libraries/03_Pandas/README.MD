@@ -180,3 +180,11 @@ Focuses on:
     - Sorts a DataFrame (or Series) by column values.
 
     - Can sort by one or multiple columns.
+---
+
+# Basic Statistics , Aggregation:
+ > .mean(), .sum(), .count(), .min(), .max(), groupedby()
+
+# Merging and joining: 
+
+>.merge(), .concat(), .join()
