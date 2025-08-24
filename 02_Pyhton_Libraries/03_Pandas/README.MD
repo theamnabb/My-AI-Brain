@@ -128,3 +128,18 @@ Focuses on:
 # Handling missing data: 
 
 > .isnull(), .dropna(), .fillna()
+
+- ## .isnull()
+    👉 **What it does:**
+
+    - Checks if each value in the DataFrame (or Series) is missing (NaN).
+
+    - Returns True if missing, False if not missing.
+
+    - It does not change the data, only shows where the missing values are.
+
+    👉 **Why we use it:**
+
+    - To detect missing values before cleaning the dataset.
+
+    - Helpful for analysis before dropping or filling missing values.
