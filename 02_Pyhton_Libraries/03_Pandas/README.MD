@@ -124,3 +124,7 @@ Focuses on:
 # Selecting Data: 
 
 > .loc[], .iloc[], filtering rows and columns
+
+# Handling missing data: 
+
+> .isnull(), .dropna(), .fillna()
