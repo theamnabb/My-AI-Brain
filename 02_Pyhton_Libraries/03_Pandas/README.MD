@@ -143,3 +143,16 @@ Focuses on:
     - To detect missing values before cleaning the dataset.
 
     - Helpful for analysis before dropping or filling missing values.
+
+- ## .dropna()
+    👉 **What it does:**
+
+    Removes rows or columns that contain missing values.
+
+    By default, it drops rows (axis=0).
+
+    👉 Why we use it:
+
+    When missing data is small and not important, we can safely remove it.
+
+    Useful if we want a clean dataset without NaN values.
