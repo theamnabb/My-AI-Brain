@@ -194,3 +194,7 @@ Focuses on:
 # Project 1:
 
 **(Titanic)** is a classic beginner-friendly dataset for practicing Pandas. 🚢
+
+# Project 2: 
+
+**COVID-19**
