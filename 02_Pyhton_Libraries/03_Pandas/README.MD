@@ -191,7 +191,7 @@ Focuses on:
 
 --- 
 
-# [Project 1](./Project1%20Titanic/Project1.ipynb):
+# [Project 1](./Project1%20Titanic/Project1.ipynb)
 
 **(Titanic)** is a classic beginner-friendly dataset for practicing Pandas. 🚢
 
